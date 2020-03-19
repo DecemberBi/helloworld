@@ -5,8 +5,5 @@
 545asdkfjasf
 5345safdsaf
 6essdffjkl
-<<<<<<< HEAD
 73fahohoasd
-=======
 723asfdsfas
->>>>>>> e366243b6d1cb4589c8febe0c7db7d51b4d135ef
